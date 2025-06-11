@@ -52,3 +52,7 @@ This project demonstrates how to combine data engineering and visualization to p
 
 "OUTPUT"
 
+![Image](https://github.com/user-attachments/assets/43a099d4-aa1d-408b-bbeb-c05c0e6a6b33)
+![Image](https://github.com/user-attachments/assets/77c89b42-72f4-40fc-bf59-6ebd23c72516)
+![Image](https://github.com/user-attachments/assets/1c1f31b2-8e1a-42e8-8144-2d7c8f3fee9b)
+![Image](https://github.com/user-attachments/assets/47fdceac-9f67-4704-ac26-63267772b758)
